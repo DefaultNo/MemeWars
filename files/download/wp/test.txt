@@ -1,0 +1,339 @@
+<div>
+    <div class="market__items one">
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="wp-image-86 alignnone"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-1.png" alt="" width="256" height="235" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.1 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="wp-image-86 alignnone"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-2.png" alt="" width="256" height="235" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.1 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="wp-image-86 alignnone"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-3.png" alt="" width="256" height="235" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.1 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="wp-image-86 alignnone"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-4.png" alt="" width="256" height="235" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.1 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="wp-image-86 alignnone"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-5.png" alt="" width="256" height="235" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.1 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="wp-image-86 alignnone"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-6.png" alt="" width="256" height="235" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.1 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="wp-image-86 alignnone"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-7.png" alt="" width="256" height="235" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.1 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="wp-image-86 alignnone"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-8.png" alt="" width="256" height="235" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.1 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="wp-image-86 alignnone"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-9.png" alt="" width="256" height="235" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.1 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="alignnone size-medium wp-image-90"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-10.png" alt="" width="300" height="279" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.4 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="alignnone size-medium wp-image-90"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-11.png" alt="" width="300" height="279" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.4 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="alignnone size-medium wp-image-90"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-12.png" alt="" width="300" height="279" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.4 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="alignnone size-medium wp-image-90"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-13.png" alt="" width="300" height="279" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.4 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="alignnone size-medium wp-image-90"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-14.png" alt="" width="300" height="279" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.4 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="alignnone size-medium wp-image-90"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-15.png" alt="" width="300" height="279" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.4 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="alignnone size-medium wp-image-90"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-16.png" alt="" width="300" height="279" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.4 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="alignnone size-medium wp-image-90"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-17.png" alt="" width="300" height="279" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.4 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+        <div class="market__item item-market">
+            <h3 class="item-market__title" style="text-align: center;"></h3>
+            <div class="item-market__image _ibg"><img class="alignnone size-medium wp-image-90"
+                    src="https://meme-wars.io/wp-content/uploads/2022/09/gun-18.png" alt="" width="300" height="279" />
+            </div>
+            <div class="item-market__information">
+                <div class="item-market__info">
+                    <div class="item-market__price">
+                        <div class="item-market__price-text">Price:</div>
+                        <div class="item-market__price-number">0.4 BNB</div>
+                    </div>
+                    &nbsp;
+                    <div class="item-market__btn"></div>
+                    &nbsp;
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    
+</div>
